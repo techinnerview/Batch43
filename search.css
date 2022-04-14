@@ -1,0 +1,264 @@
+.heading {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.filter-options {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    min-width: 250px;
+    height: 525px;
+}
+
+.filter-heading {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-top: 20px;
+}
+
+.Select-Location {
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 30px;
+}
+
+.Rectangle-2236 {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px #8c96ab;
+    margin-top: 10px;
+}
+
+.Cuisine {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 12px;
+}
+
+.checkbox-items {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+.Item {
+    width: 100%;
+    height: 220px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+    margin-left: 25%;
+}
+
+.rest-name {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-location {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-address {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Bakery {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.big {
+    display: inline-block;
+    width: 68%;
+}
+
+.vertical {
+    vertical-align: top;
+}
+
+.small {
+    display: inline-block;
+    width: 28%;
+}
+
+.big-item {
+    display: inline-block;
+    width: 68%;
+}
+
+.small-item {
+    display: inline-block;
+    width: 28%;
+}
+
+.margin-left {
+    margin-left: 7%
+}
+
+.pagination {
+    display: inline-block;
+    margin-left: 275px;
+    margin-top: 10px;
+}
+
+.pagination a {
+    color: gray;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: solid 1px gray;
+    border-radius: 15px;
+    margin: 2px;
+}
+
+@media only screen and (max-width: 600px) {
+    .Item {
+        width: 160%;
+        height: 200px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #ffffff;
+        margin-bottom: 15px;
+    }
+    .filter-options {
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #ffffff;
+        padding-left: 30px;
+        margin-bottom: 10px;
+        min-width: 450px;
+    }
+    .big {
+        display: block;
+        width: 68%;
+    }
+    .small {
+        display: block;
+        width: 28%;
+    }
+    .big-item {
+        display: inline-block;
+        width: 68%;
+    }
+    .small-item {
+        display: inline-block;
+        width: 28%;
+    }
+    .rest-name {
+        font-family: Poppins;
+        font-size: 30px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        padding-left: 35px;
+    }
+    .rest-location {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        padding-left: 35px;
+    }
+    .rest-address {
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+        padding-left: 35px;
+    }
+    .pagination {
+        display: inline-block;
+        margin-top: 25px;
+        width: 380px;
+        margin-left: 50px;
+    }
+}
