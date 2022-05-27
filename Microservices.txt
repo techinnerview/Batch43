@@ -1,0 +1,80 @@
+#MS
+
+Objective: 
+	Class 1
+	
+	1. Backend development
+	2. node.js and its installation
+	3. single and multi thread model
+	4. Module 
+	5. How to import a module
+	6. Main types of modules
+	7. Import npm packages
+
+
+	Class 2
+	
+	1. Local and global packages
+	2. Request & Response in server
+	3. Nodemon
+	4. Postman
+	5. Verbs in API (GET, POST, PUT, DELETE)
+	6. Status Codes
+	
+	Class 3
+		
+	1. Express node.js (features and installation)
+	2. Body parser
+	3. Get and post Rest API
+	4. Client server connection using express
+	5. Routing using node.js (express js)
+	6. MVC Architecture
+	
+	
+	Class 4
+		
+	1. Intro to Debug API's in Chrome
+	2. Inspect Panel
+	3. Elements
+	4. Console
+	5. Sources
+	6. Network
+	7. Application
+	8. Performance
+
+	
+	
+	Class 5
+		
+	1. CORS
+	2. Databases, Types of DB, Base Routes
+	3. MongoDB
+	4. MongoDB client server connection
+	5. ObjectID
+	6. CORS
+	7. MongoDB compass
+	8. MongoDB compass installation
+	9. MongoDB compass dashboard
+
+	
+	
+	Class 6
+	
+	1. CRUD operations
+	2. Data modelling (approach and prespectives)
+	3. Types of data models(flat, star, hierarchical, relational and object-relational
+	4. MongoDB architecture
+	5. Data modelling in MongoDB
+	6. Connecting MongoDB and node.js
+	7. MongoDB CRUD operations
+	8. Read and write operations
+	9. Write concerns and their levels
+	10. Bulk inserts in MongoDB
+
+
+
+	Class 7
+	1. Parameterizing API based on user search
+	2. Interview questions on Nodejs, Express js, MongoDB
+	
+	

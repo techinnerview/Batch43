@@ -1,0 +1,37 @@
+#BootStrap
+
+Objective: 
+	
+	
+	Class 1	
+	1. Include Bootstrap in HTML
+	2. Bootstrap using cdn
+	3. Breakpoints in Bootstrap
+	4. Containers
+	5. BS Grid System
+	
+	
+	Class 2	
+	1. "BS Navbar"	
+	2. "BS Typography"	
+	3. "BS Icons"
+	4. "BS Buttons"
+	5. "BS Button Groups"
+	
+	Class 3
+	1. "BS Flex
+	2. "BS Collapse"
+	3. "BS Images"	
+	4. "BS Dropdowns"
+	
+	
+	Class 4
+	1. "BS Form Control"
+	2. "BS Inputs Group"
+	3. "BS Carousel"
+	4. "BS Tables"
+	
+	Assignment Discussion
+	
+	
+	

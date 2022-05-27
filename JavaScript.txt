@@ -1,0 +1,66 @@
+#JavaScript
+
+Objective: 
+	Class 1
+	
+	1. Intro to JS
+	2. Why JS
+	3. Integration of JS
+	4. JS Variables
+	5. Data Types
+	6. Operators
+
+
+	Class 2
+	
+	1. Conditional Statements
+	2. I/O Statements(Console.log(), getElementbyid())
+	3. Classes & Objects
+	4. Array
+	5. Array Operation
+    6. Assignment
+	
+	Class 3
+		
+	1. String
+	2. String Operations
+	3. Loops
+	4. DOM Manipulation
+	5. Math object
+	6. Date object
+	7. Ternary Operator	
+	
+	
+	Class 4
+		
+	1. Form Validation
+	2. "ES5, ES6 & Difference"
+	3. let, var & const
+	4. Template string
+	5. this keyword
+	6. Arrow functions
+	7. default params
+	
+	
+	Class 5
+		
+	1. IFFE
+	2. Query string
+	3. Object Destructuring
+	4. Hoisting
+	5. Callback Functions
+	6. Promises
+	7. Assignment
+	
+	
+	Class 6
+	
+	1. Async/Await
+	2. Cookies
+	3. Session Storage
+	4. Local Storage
+	5. Concise Functions
+	6. Spread Operator
+	7. Rest Operator
+	8. Debug JS using Browser (Basic Intro)
+

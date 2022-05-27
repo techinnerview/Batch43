@@ -1,0 +1,87 @@
+h1 {
+    border: 5px solid red;
+}
+
+h2 {
+    border: 4px dotted blue;
+}
+
+div {
+    border: double;
+}
+
+/* border bottom  */
+/* h1 {
+    border-bottom: 5px solid red;
+}
+
+h2 {
+border-bottom: 4px dotted blue;
+}
+
+div {
+border-bottom: double;
+} */
+
+/* border style */
+div {border-bottom-style: dotted;}
+
+/* Margin */
+.margin-35 {
+    border: 1px solid red; 
+    margin: 35px;
+}
+
+.margin-35-bottom {
+    border: 1px solid red; 
+    margin-bottom: 35px;
+  }
+
+.margin-35-left {
+    border: 1px solid red; 
+    margin-left: 35px;
+}
+
+.margin-35-right {
+    border: 1px solid red; 
+    margin-right: 35px;
+}
+
+.margin-35-top {
+    border: 1px solid red; 
+    margin-top: 35px;
+}
+
+/* Padding */
+
+.padding-35 {
+    border: 1px solid red; 
+    padding: 35px;
+}
+
+.padding-35-bottom {
+    border: 1px solid red; 
+    padding-bottom: 35px;
+  }
+
+.padding-35-left {
+    border: 1px solid red; 
+    padding-left: 35px;
+}
+
+.padding-35-right {
+    border: 1px solid red; 
+    padding-right: 35px;
+}
+
+.padding-35-top {
+    border: 1px solid red; 
+    padding-top: 35px;
+}
+
+/* Position */
+h3 {
+    position: relative;
+    left: 100px;
+    top: 150px;
+  }
