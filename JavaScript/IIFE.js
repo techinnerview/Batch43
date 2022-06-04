@@ -6,7 +6,7 @@ function Greet()
 // Execution of Regular Function.
 Greet();
 
-Immediate invocation function expression
+//Immediate invocation function expression
   
 // IIFE creation and execution.
 (function() { console.log("Welcome to Edureka!"); })();
