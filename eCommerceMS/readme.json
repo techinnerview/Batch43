@@ -1,0 +1,22 @@
+{
+    "steps": {
+        "1.": "npm express-generator",
+        "2.": "npm install",
+        "3.": "Created another route for product (productRoute.js)",
+        "4.": "install mongoose",
+        "5.": "in app.js -> imported mongoose",
+        "6.": "created properties.js and added DB_URL constant in it",
+        "7.": "imported properties.js in app.js",
+        "8.": "mongoose.connect(DB_URL)",
+        "9.": "Created product model inside the models folder",
+        "10.": "In productModel, we have defined the schema and mapped the collection with the schema",
+        "11.": "in productRoute, added the reference of productModel and modified the AddProduct API accordingly",
+        "12.": "To get all the products, need to add another API called getAllProducts",
+        "13.": "Using the productModel, call the find method with the HTTP GET method",
+        "14.": "You can add additional get calls to findById aor findByName",
+        "15.": "Using the productModel, call the update method with the HTTP PUT method",
+        "16.": "You can add additional update calls to findByIdAndUpdate and so on",
+        "17.": "Using the productModel, call the delete method with the HTTP DELETE method",
+        "18.": "You can add additional get calls to remove or findByIdAndDelete and so on"
+    }
+}
