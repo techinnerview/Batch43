@@ -67,9 +67,9 @@ class App2 extends React.Component {
                 <header className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
                     <Typeahead options={restaurants} placeholder="Enter the location Name" />
-                    {restaurants.map((item) => {
-                        return <p>{item.label}</p>
-                    })}
+                    <p>
+                        Edit <code>src/App.js</code> and save to reload.
+                    </p>
                     <p>
                         {this.state.name}
                     </p>
