@@ -6,21 +6,24 @@ import reportWebVitals from './reportWebVitals';
 import ProductComponent from './productComponent';
 import BillComponent from './billComponent';
 import OrderComponent from './orderComponent';
+import PageNotFoundComponent from './pageNotFoundComponent';
+import ReactFormsComponent from './reactFormsComponent';
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>    
+  <React.StrictMode>
     <Router>
-      <div>
         <Routes>
           <Route exact path="/" element={<App />} />
           <Route path="/product" element={<ProductComponent />} />
           <Route path="/order" element={<OrderComponent />} />
           <Route path="/bill" element={<BillComponent />} />
+          <Route path="/forms" element={<ReactFormsComponent />} />
+          <Route path ="*" element={<PageNotFoundComponent />} />
         </Routes>
-      </div>
     </Router>
+
   </React.StrictMode>
 );
 
