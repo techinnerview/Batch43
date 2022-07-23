@@ -1,9 +1,7 @@
-import './App.css';
 import React from 'react';
-import Home from './home/home';
 
 // Class Component
-class App extends React.Component {
+class Wallpaper extends React.Component {
 
   constructor(props) {
     super(props);
@@ -11,9 +9,9 @@ class App extends React.Component {
 
   render() {
     return (<div className="app">
-      <Home />
+      <h1>{'Wallpaper component'}</h1>
     </div>);
   }
 }
 
-export default App;
+export default Wallpaper;
