@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Details from '../src/Components/details/details';
 import reportWebVitals from './reportWebVitals';
 import PageNotFoundComponent from './pageNotFoundComponent';
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
@@ -12,6 +13,7 @@ root.render(
     <Router>
         <Routes>
           <Route exact path="/" element={<App />} />
+          <Route path="/details" element={<Details />} />
           <Route path ="*" element={<PageNotFoundComponent />} />
         </Routes>
     </Router>
