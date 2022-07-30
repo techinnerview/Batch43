@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 import '../../Styles/wallpaper.css';
-import { BrowserRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 
 // Class Component
 class Wallpaper extends React.Component {
@@ -40,7 +40,7 @@ class Wallpaper extends React.Component {
   }
 
   handleRestaurantClick = (resaurantId) => {
-    this.props.history.push(`/details?${resaurantId._id}`)
+    this.props.history.push(`/details?restaurant=${resaurantId._id}`)
   }
 
   renderSuggestions = () => {
@@ -86,4 +86,4 @@ class Wallpaper extends React.Component {
   }
 }
 
-export default BrowserRouter(Wallpaper);
+export default withRouter(Wallpaper);
